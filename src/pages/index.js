@@ -8,6 +8,10 @@ export default function Home({ products }) {
     <div className="bg-gray-100">
       <Head>
         <title>Amazon 2.0</title>
+        <meta
+          name="google-site-verification"
+          content="OXeGN1_nXQnlNCENwciQK7-rJoU5ufVOvO3h2PJxLjo"
+        />
       </Head>
 
       <Header />
